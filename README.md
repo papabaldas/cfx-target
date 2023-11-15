@@ -3,6 +3,8 @@ Context Menu pour Fivem
 
 Permission a mettre dans config.lua et perm.lua
 
+Activer le menu avec la touche ALT
+
 A continuer d'ajuster
 ![20231108_120800](https://github.com/papabaldas/cfx-target/assets/65123019/c3164a61-029e-4846-83eb-b7799c564f4b)
 
